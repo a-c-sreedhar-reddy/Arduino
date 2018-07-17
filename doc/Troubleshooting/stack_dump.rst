@@ -50,8 +50,8 @@ Example:
     3fffffa0:  40000f49 40000f49 3fffdab0 40000f49  
     <<<stack<<<
 
-The first number after ``Exception`` gives the cause of the reset. a
-full ist of all causes can be found `here <../exception_causes.rst>`__
+The first number after ``Exception`` gives the cause of the reset. A
+full list of all causes can be found `here <../exception_causes.rst>`__
 the hex after are the stack dump.
 
 Decode
